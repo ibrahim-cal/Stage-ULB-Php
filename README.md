@@ -1,4 +1,4 @@
-# TFE
+# Stage
 
 Il s'agit d’un projet lié à la valorisation et à l'administration des activités de Recherche menées au 
 sein de l'ULB.
